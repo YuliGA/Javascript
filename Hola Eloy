@@ -1,0 +1,25 @@
+  
+<!DOCTYPE html>
+<html>
+<head>
+	<title> Prueba 1 </title>
+	<style type="text/css">
+	body
+	{
+		background-color: #AAAAFF;
+		color: white;
+		font-family: Loma;
+	}
+	</style>
+</head>
+<body>
+	<p> Hola <strong> Eloy </strong></p>
+	<p> Prueba </p>
+	<script type="text/javascript">
+		 var X = 1;
+		 var Y = 2;
+		 var Z = X + Y;
+		 document.write("El valor de Z es " + Z)
+	</script>
+</body>
+</html>
