@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>Dibujo independiente usando do...while</title>
+	</head>
+	<body>
+		<h1>Dibujo independiente</h1>
+		<canvas width="400" heigth="400" id="Dibujo"></canvas>
+		<p>Dibujo de practica para comprobar que entendi y estoy aprendiendo. Amen</p>
+		<script src="canvaind.js"></script>
+	</body>
+</html>
